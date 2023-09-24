@@ -6,6 +6,7 @@
 <a href="https://linkedin.com/in/egemen-atik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egemen-atik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/egemenatikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="egemenatikk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/egemenatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="egemenatik" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/egemenatikk" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="egemenatik" height="30"/></a>
 </p>
 
 <br>
