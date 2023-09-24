@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Egemen Atik</h1>
-<h3 align="center"></h3>
+<h1>Hi 👋, I'm Egemen Atik</h1>
+<h3>I am a computer engineer who graduated from Bogazici University in 2023.</h3>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
