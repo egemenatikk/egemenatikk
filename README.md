@@ -20,13 +20,13 @@
 
 <div align="center" style="background-color: #333; padding: 20px; border-radius: 5px;">
   <p style="background-color: #444; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egemenatikk&show_icons=true&locale=en&layout=compact" alt="egemenatikk" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egemenatikk&show_icons=true&locale=en&layout=compact" alt="egemenatikk" />
   </p>
   <p style="background-color: #444; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=egemenatikk&show_icons=true&locale=en" alt="egemenatikk" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egemenatikk&show_icons=true&locale=en" alt="egemenatikk" />
   </p>
   <p style="background-color: #444; padding: 10px; border-radius: 5px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egemenatikk&" alt="egemenatikk" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egemenatikk&" alt="egemenatikk" />
   </p>
 </div>
 
