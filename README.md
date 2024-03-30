@@ -17,6 +17,7 @@
 <a href="https://www.hackerrank.com/egemenatikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="egemenatikk" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/egemenatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="egemenatik" height="50" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/egemenatikk" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="egemenatik" height="50"/></a>
+<a href="https://medium.com/@egemenatikk" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="egemenatik" height="50"/></a>
 </div>  
 
 <br/><br/>
